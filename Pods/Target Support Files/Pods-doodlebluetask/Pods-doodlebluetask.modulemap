@@ -1,0 +1,6 @@
+framework module Pods_doodlebluetask {
+  umbrella header "Pods-doodlebluetask-umbrella.h"
+
+  export *
+  module * { export * }
+}
